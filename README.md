@@ -4,7 +4,7 @@
 <br>
 <img width="632" height="295" alt="Screenshot_20260714_095622" src="https://github.com/user-attachments/assets/f899b44f-6baa-4afc-9661-df6f6aa41691" />
 <br>
-<a href="https://youtu.be/JzanmzNsBhA"> See working here</a>
+<a href="https://youtu.be/JzanmzNsBhA](https://www.youtube.com/watch?v=KuiGH0L9EsM"> See working here</a>
 <h2>Features</h2>
 <p>
   1. 4x4 buttons that are programmable in HA. <br>
