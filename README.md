@@ -11,3 +11,7 @@
   2. An 128X64 oled screen that displays time and whats playing on spotify using a HA spotify intergration. <br>
   3. 2 rgb leds that are programmable in HA. <br>
   4. 2 potentiometers that are programmable in HA</p>
+  <br>
+<small>
+  The cad is meant to be 1 file
+</small>
